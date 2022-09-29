@@ -105,7 +105,6 @@ nav a:hover {
 }
 
 .grp-img{
-    /* border: 2px solid pink; */
     width: 51rem;
     height: 37rem;
 }
@@ -115,7 +114,6 @@ nav a:hover {
 }
 
 .group-content h1{
-    /* border: 2px solid forestgreen; */
     max-width: 28.5rem;
     font-size: 3.6rem;
     word-spacing: 0.256rem;
@@ -124,7 +122,6 @@ nav a:hover {
 }
 
 .group-content p{
-    /* border: 2px solid red; */
     max-width: 26rem;
     font-size: 1.1rem;
     margin-top: 1.8rem;
@@ -196,7 +193,6 @@ nav a:hover {
 }
 
 .section-group2{
-    /* border: 2px solid purple; */
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 90vw;
@@ -208,7 +204,6 @@ nav a:hover {
 }
 
 .group-img2{
-    /* border: 2px solid green; */
     height: fit-content;
 }
 
@@ -217,7 +212,6 @@ nav a:hover {
 }
 
 .group-content2 h1{
-    /* border: 1px solid yellow; */
     width: 28rem;
     font-size: 2.2rem;
     text-overflow: clip;
@@ -237,7 +231,6 @@ nav a:hover {
 }
 
 .list p{
-    /* border: 2px solid pink; */
     font-size: 0.85rem;
     width: 18rem;
     margin-bottom: 2.35rem;
@@ -304,7 +297,6 @@ nav a:hover {
 }
 
 .card-heading{
-    /* border: 2px solid salmon; */
     font-family: 'Noto Sans Balinese', sans-serif;
     text-align: center;
     width: 25vw;
@@ -320,7 +312,6 @@ nav a:hover {
 }
 
 .card-section{
-    /* border: 2px solid teal; */
     font-family: 'Noto Sans Balinese', sans-serif;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -331,7 +322,6 @@ nav a:hover {
 }
 
 .card{
-    /* border: 1px solid #7030CC; */
     margin: 0 20px;
     border-radius: 1.44rem;
     box-shadow: 2px 17px #7030CC, -1.5px -9px #7030CC;
